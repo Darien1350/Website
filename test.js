@@ -1,1 +1,1 @@
-alert("This page was made all on Github Pages!")
+alert("This page was made all on Github Pages!");
